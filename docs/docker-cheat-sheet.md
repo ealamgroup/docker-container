@@ -76,7 +76,7 @@ A quick reference guide for working with Docker — covering essential commands 
 | `docker history <image>` | Shows image history |
 | `docker inspect <image>` | Inspects image metadata |
 
----
+--- 
 
 ## ⚙️ Common Run Flags
 
