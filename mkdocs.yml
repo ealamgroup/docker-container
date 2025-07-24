@@ -1,0 +1,20 @@
+site_name: Docker Cheat Sheet
+site_description: A comprehensive cheat sheet for Docker commands.
+site_author: Your Name
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - content.code.copy
+    - search.highlight
+    - search.share
+  palette:
+    scheme: default
+    primary: blue
+    accent: light blue
+nav:
+  - Home: index.md
+  - Docker Cheat Sheet: docker-cheat-sheet.md
+repo_url: https://github.com/ealamgroup/docker-container
+repo_name: GitHub
